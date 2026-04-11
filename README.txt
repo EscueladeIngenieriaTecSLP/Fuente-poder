@@ -1,5 +1,4 @@
-UR3 WebAR Project
-
+Fuente-poder
 Instructions:
 1. Place all files in the same folder:
    - index.html
